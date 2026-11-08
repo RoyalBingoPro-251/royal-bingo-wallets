@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "2.0.0",
+  "appTitle": "ሮያል ቢንጎ ፕሮ 251 (RoyalBingoPro-251)",
+  "adminContact": {
+    "phone": "+251 925432016",
+    "telegram": "@OneGBEthiopia",
+    "paymentAccounts": "CBE: 1000212746367 | Telebirr: 0925432016"
+  },
+  "credits": [
+    {
+      "userId": "RB-SEK-2843",
+      "sequenceNumber": 1,
+      "amountTokens": 1000000,
+      "signedKey": "RBPC-2843-1M00-3G76",
+      "issuedAt": "2026-11-08T12:00:00Z",
+      "note": "Initial Welcome Top-Up"
+    }
+  ]
+}
