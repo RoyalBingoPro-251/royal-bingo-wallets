@@ -14,6 +14,14 @@
       "signedKey": "RBPC-2843-1M00-3G76",
       "issuedAt": "2026-11-08T12:00:00Z",
       "note": "Initial Welcome Top-Up"
-    }
+    },
+    {
+  "userId": "RB-SEK-4568",
+  "sequenceNumber": 1,
+  "amountTokens": 100000,
+  "signedKey": "RBPV-4568-100K-4ND9",
+  "issuedAt": "2026-11-11T13:56:14.472Z",
+  "note": "Issued via Owner Mobile APK Admin Mode"
+}
   ]
 }
