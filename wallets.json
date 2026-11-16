@@ -8,13 +8,13 @@
   },
   "credits": [
     {
-      "userId": "RB-SEK-2843",
-      "sequenceNumber": 1,
-      "amountTokens": 1000000,
-      "signedKey": "RBPC-2843-1M00-3G76",
-      "issuedAt": "2026-11-08T12:00:00Z",
-      "note": "Initial Welcome Top-Up"
-    },
+  "userId": "RB-SEK-2843",
+  "sequenceNumber": 1,
+  "amountTokens": 10000,
+  "signedKey": "RBPF-2843-C00A-NQOQ",
+  "issuedAt": "2026-11-16T07:32:06.982Z",
+  "note": "Issued via Owner Mobile APK Admin Mode"
+},
     {
   "userId": "RB-SEK-4568",
   "sequenceNumber": 1,
